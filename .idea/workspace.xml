@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4dcd275f-5aef-492b-be92-5e3ad3b995df" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gtmXVEpwknXO8roU7aag4c24jj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/StudentPanel" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Tushar Ahmed\Desktop\Bitms\Bitm-Final\TrainerPanel" />
+      <recent name="C:\Users\Tushar Ahmed\Desktop\Bitms\Bitm-Final\Innerpage" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tushar Ahmed\Desktop\Bitms\Bitm-Final\StudentPanel" />
+      <recent name="C:\Users\Tushar Ahmed\Desktop\Bitms\Bitm-Final\TrainerPanel" />
+      <recent name="C:\Users\Tushar Ahmed\Desktop\Bitms\Bitm-Final\Course" />
+      <recent name="C:\Users\Tushar Ahmed\Desktop\Bitms\Bitm-Final\assets\Bitm-img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4dcd275f-5aef-492b-be92-5e3ad3b995df" name="Default Changelist" comment="" />
+      <created>1598942305518</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598942305518</updated>
+      <workItem from="1598942308293" duration="20630000" />
+      <workItem from="1599022626659" duration="24106000" />
+      <workItem from="1599108549282" duration="26044000" />
+      <workItem from="1599280470578" duration="27366000" />
+      <workItem from="1599366963223" duration="9988000" />
+      <workItem from="1599477246206" duration="5189000" />
+      <workItem from="1599546637942" duration="599000" />
+      <workItem from="1599558200160" duration="848000" />
+      <workItem from="1599896595191" duration="6733000" />
+      <workItem from="1599974154684" duration="17764000" />
+      <workItem from="1600062118959" duration="604000" />
+      <workItem from="1600070883204" duration="17005000" />
+      <workItem from="1600143307526" duration="18554000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1599897813426">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1599897813426" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1600147881861">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.738@0.0.1366.738" timestamp="1600147881861" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1600155929067">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1600155929067" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1600153875256">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1600153875256" />
+  </component>
+</project>
